@@ -1,0 +1,35 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #ffd1f5;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'ubuntu';
+  text-shadow: 5px 0 #362532;
+  font-size: 8rem;
+  color: #bd4979;
+}
+
+p {
+  font-size: 2rem;
+  color: #bd4979;
+  font-family: 'ubuntu';
+}
+
+img {
+  width: 80%;
+}
+
+
